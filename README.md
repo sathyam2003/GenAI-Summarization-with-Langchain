@@ -70,6 +70,7 @@ Once the setup is complete, you can run the Streamlit application with a single 
 Bash
 
 streamlit run app.py
+
 Your web browser should automatically open a new tab with the application running.
 
 📖 Usage
